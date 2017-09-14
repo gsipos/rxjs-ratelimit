@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "target": "es6",
+    "module": "es6",
+    "moduleResolution": "node",
+    "outDir": "dist",
+    "sourceMap": true,
+    "declaration": true,
+    "strict": true
+  },
+  "include": [
+    "src/rxjs-ratelimit.ts"
+  ],
+  "exclude": [
+    "src/**/*.spec.ts"
+  ]
+}
