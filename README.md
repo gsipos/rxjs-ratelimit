@@ -1,4 +1,6 @@
 # rxjs-ratelimit
+[![Build Status](https://www.travis-ci.org/gsipos/rxjs-ratelimit.svg?branch=master)](https://www.travis-ci.org/gsipos/rxjs-ratelimit)
+
 Ratelimit operator for rxjs. 
 Useful for api calls that have sliding window quota.
 
